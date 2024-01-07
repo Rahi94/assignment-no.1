@@ -1,0 +1,118 @@
+.header-img {
+    width: 75%;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+.header-container {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.header-h3 {
+    font-size: 32px;
+
+    font-weight: 400;
+    color: white;
+}
+
+.header-h2 {
+    font-size: 72px;
+
+    font-weight: 900;
+    font-weight: bold;
+    color: white;
+
+}
+
+.header-title {
+    margin-top: -350px;
+}
+
+/* main section */
+.new-year-img {
+    width: 650px;
+    height: 450px;
+}
+
+.discount {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.percentage {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+
+    font-weight: 700;
+    margin-bottom: 0px;
+
+
+}
+
+.holiday {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+
+    font-weight: 500;
+    margin-bottom: 0px;
+    margin-top: 60px;
+
+}
+
+.categories {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+
+    font-weight: 700;
+    margin-top: 15px;
+
+}
+
+/* welcome section */
+
+.welcome-container {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.welcome-img {
+    width: 75%;
+}
+
+.welcome-h3 {
+    /* color: #FFF; */
+    font-family: Merriweather;
+    font-size: 64px;
+
+    font-weight: 900;
+    /* line-height: 88px;  */
+    letter-spacing: 7px;
+}
+
+.welcome-p {
+    /* color: rgba(255, 255, 255, 0.80); */
+    font-family: Inter;
+    font-size: 18px;
+
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.join-now {
+    /* color: #FFF; */
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+
+    font-weight: 700;
+
+    text-transform: uppercase;
+    text-align: left;
+}

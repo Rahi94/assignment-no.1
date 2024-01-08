@@ -103,17 +103,20 @@
     margin-left: 180px;
     filter: brightness(100%);
 }
-.welcome-text-img{
+
+.welcome-text-img {
     display: flex;
 }
-.year-2024{
+
+.year-2024 {
     margin-top: -400px;
     margin-right: 150px;
     /* height: 100px; */
     filter: brightness(100%);
-    
+
 }
-.year-2024-img{
+
+.year-2024-img {
     height: 350px;
 }
 
@@ -261,7 +264,8 @@
 .first {
     text-align: left;
 }
-.second{
+
+.second {
     text-align: right;
 }
 
@@ -272,4 +276,85 @@
     margin: 50px;
     border-radius: 463px;
     border: 15px solid #F00;
+}
+
+/* holiday section */
+.holiday-title {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.red {
+    width: 90%;
+    margin-left: 60px;
+}
+
+.pori-discount {
+
+    text-align: end;
+}
+
+.ractangle-2 {
+    margin-top: -250px;
+}
+
+.gift-box {
+    margin-bottom: -200px;
+    filter: brightness(100%);
+    width: 600px;
+    margin-left: 60px;
+
+}
+
+.pori {
+    width: 400px;
+    margin-right: 65px;
+    margin-bottom: -60px;
+}
+
+.half-discount {
+    filter: brightness(100%);
+    margin-left: 500px;
+    margin-bottom: -400px;
+    margin-right: 300px;
+}
+
+.what {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+
+    font-weight: 500;
+    margin-top: 100px;
+    margin-bottom: 0px;
+
+}
+.sale{
+    color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+margin-top: 40px;
+margin-bottom: 0px;
+}
+.holidays{
+    color: #F00;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.holiday-p{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 160% */
+margin-top: 30px;
 }

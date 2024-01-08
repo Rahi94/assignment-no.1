@@ -1,12 +1,14 @@
 .header-img {
-    width: 75%;
+    width: 85%;
     border-radius: 16px;
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    filter: brightness(50%);
 }
 
 .header-container {
     text-align: center;
     margin-top: 40px;
+    /* filter: brightness(50%); */
 }
 
 .header-h3 {
@@ -14,6 +16,7 @@
 
     font-weight: 400;
     color: white;
+    margin-bottom: 0px;
 }
 
 .header-h2 {
@@ -22,11 +25,13 @@
     font-weight: 900;
     font-weight: bold;
     color: white;
+    margin-top: 20px;
 
 }
 
 .header-title {
     margin-top: -350px;
+    filter: brightness(100%);
 }
 
 /* main section */
@@ -80,19 +85,36 @@
 .welcome-container {
     margin-top: 150px;
     text-align: center;
+
     /* width: 75%; */
 }
 
 .welcome-img {
-    width: 75%;
+    width: 85%;
+    /* height: 500px; */
     fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    filter: brightness(50%);
 }
 
 .welcome-text {
     width: 75%;
     text-align: left;
+    margin-top: -430px;
+    margin-left: 180px;
+    filter: brightness(100%);
+}
+.welcome-text-img{
+    display: flex;
+}
+.year-2024{
     margin-top: -400px;
-    margin-left: 220px;
+    margin-right: 150px;
+    /* height: 100px; */
+    filter: brightness(100%);
+    
+}
+.year-2024-img{
+    height: 350px;
 }
 
 .welcome-h3 {
@@ -104,6 +126,7 @@
     font: bold;
     /* line-height: 88px;  */
     letter-spacing: 7px;
+    margin-bottom: 0px;
 }
 
 .welcome-p {
@@ -113,6 +136,7 @@
 
     font-weight: 400;
     line-height: 30px;
+    margin-top: 20px;
 }
 
 .join-now {
@@ -125,6 +149,7 @@
 
     text-transform: uppercase;
     text-align: left;
+    margin-left: 20px;
 }
 
 /* address section */
@@ -136,8 +161,8 @@
     /* padding: 100px 200px; */
     padding-top: 50px;
     padding-bottom: 50px;
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
 
     color: #070211;
     font-family: Inter;

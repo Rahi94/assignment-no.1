@@ -329,32 +329,100 @@
     margin-bottom: 0px;
 
 }
-.sale{
+
+.sale {
     color: #070211;
-font-family: Merriweather;
-font-size: 72px;
-font-style: normal;
-font-weight: 900;
-line-height: normal;
-margin-top: 40px;
-margin-bottom: 0px;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-top: 40px;
+    margin-bottom: 0px;
 }
-.holidays{
+
+.holidays {
     color: #F00;
-text-align: center;
-font-family: Merriweather;
-font-size: 72px;
-font-style: normal;
-font-weight: 900;
-line-height: normal;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
 }
-.holiday-p{
+
+.holiday-p {
     color: rgba(7, 2, 17, 0.60);
-text-align: center;
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 500;
-line-height: 32px; /* 160% */
-margin-top: 30px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    /* 160% */
+    margin-top: 30px;
+}
+
+/* awesome section */
+.awesome-img-container {
+    /* display: flex; */
+}
+
+.first-col {
+    display: flex;
+    gap: 20px;
+    margin-left: 30px;
+}
+
+.first-col img {
+    width: 380px;
+}
+
+.second-col {
+    display: flex;
+    gap: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.second-col img {
+    width: 380px;
+}
+
+.awesome-h4 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+
+    font-weight: 500;
+    margin-bottom: 0px;
+
+}
+
+.awesome-h3 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+
+    font-weight: 900;
+
+    text-transform: capitalize;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.awesome-p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.awesome-title-container{
+    text-align: start;
+    margin-left: 40px;
+    margin-top: 100px;
 }

@@ -388,7 +388,7 @@
     justify-content: space-around;
     gap: 20px;
     margin-left: 20px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .second-col img {
@@ -430,7 +430,7 @@
 
 .awesome-title-container {
     text-align: start;
-    margin-left: 40px;
+    margin-left: 80px;
     margin-top: 100px;
 }
 
